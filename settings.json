@@ -1,0 +1,54 @@
+{
+  "tick_interval": 100,
+  "font_family": "Ubuntu",
+  "timers": [
+    {
+      "status": "Work",
+      "counter": 1,
+      "minutes": 25,
+      "can_skip": false
+    },
+    {
+      "status": "Short break",
+      "counter": 1,
+      "minutes": 5,
+      "can_skip": true
+    },
+    {
+      "status": "Work",
+      "counter": 2,
+      "minutes": 25,
+      "can_skip": false
+    },
+    {
+      "status": "Short break",
+      "counter": 2,
+      "minutes": 5,
+      "can_skip": true
+    },
+    {
+      "status": "Work",
+      "counter": 3,
+      "minutes": 25,
+      "can_skip": false
+    },
+    {
+      "status": "Short break",
+      "counter": 3,
+      "minutes": 5,
+      "can_skip": true
+    },
+    {
+      "status": "Work",
+      "counter": 4,
+      "minutes": 25,
+      "can_skip": true
+    },
+    {
+      "status": "Long break",
+      "counter": 4,
+      "minutes": 30,
+      "can_skip": true
+    }
+  ]
+}
